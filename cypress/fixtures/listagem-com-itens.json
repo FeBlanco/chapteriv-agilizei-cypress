@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "Felipe",
+        "lastName": "Blanco",
+        "adress": "Rua 9",
+        "emailAdress": "blanco@test.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Dinamarca",
+        "selectYears": "2006",
+        "selectMonths": "Abril",
+        "pwd": "Alunos@2021"
+    },
+    {
+        "firstName": "Neide",
+        "lastName": "Blanco",
+        "adress": "Rua 9",
+        "emailAdress": "neide@test.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Dinamarca",
+        "selectYears": "2000",
+        "selectMonths": "Abril",
+        "pwd": "Alunos@2021"
+    }
+]
